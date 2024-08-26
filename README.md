@@ -1,4 +1,4 @@
-# -NailTRON
+# $NailTRON
 
 Snail TRON Meme Coin Website
 Overview
